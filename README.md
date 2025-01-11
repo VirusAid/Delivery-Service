@@ -1,5 +1,9 @@
 # Delivery-Service
 
+[![IMG-2725.jpg](https://i.postimg.cc/PxsxRhtF/IMG-2725.jpg)](https://postimg.cc/rdjMDBRS)
+
+
+
 ## Data Models
 
 ### User
@@ -33,7 +37,8 @@ For API testing, you can use:
 2. Postman
 3. curl commands
 
-## Usage examples
+[![IMG-2726.jpg](https://i.postimg.cc/1zNXB4Zq/IMG-2726.jpg)](https://postimg.cc/nspncFrF)
+
 
 ### Creating a client
 bash
